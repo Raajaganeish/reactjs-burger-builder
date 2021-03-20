@@ -1,0 +1,15 @@
+.AuthTabs {
+  margin: 20px auto;
+  text-align: left;
+  box-shadow: 0 2px 3px #ccc;
+  border: 1px solid #eee;
+  padding: 10%;
+  box-sizing: border-box;
+}
+
+@media (min-width: 500px) {
+  .AuthTabs {
+    margin: 20px auto;
+    width: 100%;
+  }
+}
